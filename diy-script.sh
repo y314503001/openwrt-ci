@@ -36,7 +36,6 @@ function git_sparse_clone() {
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 src-git easytier https://github.com/y314503001/luci-app-easytier.git
 src-git lucky https://github.com/y314503001/luci-app-lucky.git
-src-git istore https://github.com/linkease/istore;main
 curl -sSL https://raw.githubusercontent.com/chenmozhijin/turboacc/luci/add_turboacc.sh -o add_turboacc.sh && bash add_turboacc.sh --no-sfe
 
 # 科学上网插件

@@ -1,4 +1,4 @@
-name: IPQ60XX-24.10-WIFI
+name: IPQ60XX-openwrt-ipq-WIFI
 
 on:
   workflow_dispatch:
